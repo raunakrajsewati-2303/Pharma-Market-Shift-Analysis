@@ -146,7 +146,7 @@ Develop advanced machine learning models to predict prescribing behavior
 
 Expand competitive analysis to include pricing and promotional effectiveness
 
-Repository Structure
+**Repository Structure**
 Repository_Structure/
 │
 ├── Original Data Files CSV/
@@ -165,7 +165,7 @@ Repository_Structure/
 ├── BIA 810 Final Project_Team 5.pptx
 └── README.md
 
-Contact Information
+**Contact Information**
 For questions, feedback, or collaboration opportunities:
 
 Group 5 – BIA-810D GitHub: https://github.com/raunakrajsewati-2303 Email: rrajsewa@stevens.edu
